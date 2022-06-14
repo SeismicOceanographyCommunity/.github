@@ -1,1 +1,1 @@
-# .github
+The `SeismicOceanographyCommunity` organisation has been set up in the hope of prompting progress in the field of seismic oceanography. We hope that this space will encourage sharing of data, code and ideas between all researchers with an interest in the field. In particular, we encourage researchers to upload their existing codes to this repository so that they can be combined into standardized, reliable tools for future research.  
